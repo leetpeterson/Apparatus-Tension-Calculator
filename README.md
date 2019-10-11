@@ -16,3 +16,9 @@ For the convenience of finding and downloading the .exe files, links to them are
 Programs function the same as the source code described above, just as an application for immediate use on Windows systems.
 
 [OAC.exe](Executable-Files/OAC.exe)   |   [control.exe](Executable-Files/control.exe)
+
+-----
+
+## All-in-one Download:
+
+[Apparatus-Tension-Calculator.zip](Apparatus-Tension-Calculator.zip) - Zip file containing the whole project, all you need to do is download it!
