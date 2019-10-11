@@ -8,7 +8,7 @@ num = numpy
 
 def tension_calc():
     # Asks for mass of object from the user
-    mass = float(input("Object Mass (kg): "))*9.8
+    mass = ((float(input("Object Mass (g): ")))/1000)*9.8
 
     # Measurements defined between the various points during group meeting
     m1 = int(input("Left-to-Middle Measurement (cm): "))
