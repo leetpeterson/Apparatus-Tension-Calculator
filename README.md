@@ -2,7 +2,7 @@
 Scripts to calculate the tension in cables for my Fundamentals of Engineering course.
 
 -----
-## Individual Scripts (Source Code)
+## Individual Scripts (Source Code):
 
 [OAC.py](Source-Code/OAC.py) - A program that allows the user to enter custom length and mass measurements for various apparatus's and situations.
 
